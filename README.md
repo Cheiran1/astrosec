@@ -56,7 +56,7 @@ Increased Awareness: It raises awareness of the varying impacts of space weather
 
 ## 🧰 Technologies Used
 
-HTML5 / CSS3 / JavaScript — Core front-end technologies
+HTML5 / JavaScript — Core front-end technologies
 
 CSS Animations — For interactive storytelling and motion effects
 
