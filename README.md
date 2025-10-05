@@ -53,12 +53,10 @@ Increased Awareness: It raises awareness of the varying impacts of space weather
 
 🎨 Custom Illustrations — Visual storytelling with art and motion
 
-🌍 Impact Showcase — See how different Earth communities experience space weather
-
 
 ## 🧰 Technologies Used
 
-HTML5 / CSS3 / JavaScript (ES6) — Core front-end technologies
+HTML5 / CSS3 / JavaScript — Core front-end technologies
 
 CSS Animations — For interactive storytelling and motion effects
 
@@ -68,7 +66,7 @@ Git & GitHub — Version control and collaboration
 ## 🛠️ Installation
 
 #### 1️⃣ Clone this repository
-git clone https://github.com/YourUsername/AstroSec-StellarStories.git
+git clone https://github.com/Cheiran1/astrosec.git
 
 #### 2️⃣ Navigate to the project directory
 cd AstroSec-StellarStories
@@ -82,19 +80,18 @@ code .
 
 ```bash
 AstroSec/
-├── index.html                # Home page (introduction to Solara’s story)
-├── story.html                # Interactive story sections
-├── about.html                # About NASA Challenge & our inspiration
-├── assets/
-│   ├── images/               # Illustrations and story visuals
-│   └── icons/
+├── index.html               
+├── story.html                
+├── team.html               
+├── resources.html
+├──challenge.html
+├── assets
 ├── css/
-│   ├── style.css             # Styling and layout
-│   └── animations.css        # Story animations
+│   ├── style.css            
+│   └── story/style.css        
 ├── js/
-│   ├── main.js               # Interactivity and navigation
-│   ├── story.js              # Story flow, dialogues, and animations
-│   └── data.js               # Facts and educational pop-ups
+│   ├── script.js              
+│   ├── story/script.js             
 └── README.md
 ```
 
