@@ -31,8 +31,7 @@ In today’s technology-driven world, understanding space weather is more import
 Our mission is to:
 - 🧠 **Educate** children about space weather and its effects in a fun, interactive way  
 - 🎨 **Visualize** solar events and their journey from Sun to Earth  
-- 🗣️ **Narrate** the story from a **Solar Flare’s perspective**, personified as a curious, adventurous character  
-- 🌍 **Showcase impacts** on various communities — farmers, pilots, astronauts, power grid operators, and everyday people  
+- 🗣️ **Narrate** the story from a **Solar Flare’s perspective**, personified as a curious, adventurous character   
 
 
 
