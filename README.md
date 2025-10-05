@@ -9,7 +9,7 @@
 > 🛰️ *“Stellar Stories: Space Weather Through the Eyes of Earthlings.”*
 
 Project Details: Stellar Stories: Astra's Space Weather Adventure
-1. What exactly does it do?
+
 The project is a digital, interactive children's story that simplifies complex space weather phenomena, such as solar flares and Coronal Mass Ejections (CMEs), for elementary school students (ages 7-10). Titled "Stellar Stories: Astra's Space Weather Adventure," it narrates the experience from the perspective of an astronaut, Commander Astra, aboard the International Space Station (ISS), showing the real-world impact of these events on orbit and Earth.
 ---
 
